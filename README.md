@@ -1,4 +1,4 @@
-# Resisent-evil-revelations-2-Startup-Fix
+# Resident-evil-revelations-2-Startup-Fix
 Community troubleshooting guide for Resident Evil Revelations 2 startup crashes
 Resident Evil Revelations 2 — Startup Fix
 
