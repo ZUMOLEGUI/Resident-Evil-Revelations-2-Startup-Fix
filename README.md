@@ -43,3 +43,15 @@ The procedure is provided for troubleshooting purposes, without any guarantee th
 Credits
 
 Community-documented troubleshooting procedure.
+
+Tested Result
+
+Operating System: Windows 11
+Game: Resident Evil Revelations 2 (PC)
+File: "d3dx9_43.dll"
+
+On my Windows 11 PC, Resident Evil Revelations 2 launched successfully after I copied "d3dx9_43.dll" from the official Microsoft DirectX End-User Runtimes (June 2010) package into the game's installation folder, next to "re_rev2.exe".
+
+No CPU affinity changes, configuration file modifications, or custom injectors were used in this procedure.
+
+Note: This workaround was tested on one Windows 11 system. Results may vary depending on the system configuration.
